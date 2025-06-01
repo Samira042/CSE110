@@ -1,2 +1,2 @@
 # CSE110
-Lab assignments all2024
+Lab assignments Fall2024
